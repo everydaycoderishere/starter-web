@@ -3,7 +3,12 @@
 
 Hi, I am modifing the fike before rebase.
 
+<<<<<<< HEAD
 Doing some changes in local.
+=======
+
+Hi, Going to insert conflict in my feature branch.
+>>>>>>> mybranch
 
 # TEAM
 
