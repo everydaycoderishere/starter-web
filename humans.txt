@@ -5,6 +5,7 @@ Hi, I am modifing the fike before rebase.
 
 <<<<<<< HEAD
 Doing some changes in local.
+Adding important notes on GIT Stash
 =======
 
 Hi, Going to insert conflict in my feature branch.
