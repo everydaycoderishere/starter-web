@@ -10,6 +10,11 @@ A lot of Lectures are already submitted
 ## GIT & GITHUB Training
 This is the famous and one of the Best Training Course Of DevOps
 
+
+## Contribution 
+Fork the Repor and raise pull request for review
+
+
 ## GIT Comparisons 
 Adding GIT Comparisons Lecture
 
