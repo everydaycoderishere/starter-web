@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Anshul Thakur <twitter>
+     Anshul Thakur 
+     anshulc55@gmial.com
+     SDEIII. DevOps Engineer
 
 # THANKS
 
